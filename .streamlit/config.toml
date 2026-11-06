@@ -1,0 +1,21 @@
+[theme]
+base = "light"
+primaryColor = "#0773A5"
+backgroundColor = "#F7FAFC"
+secondaryBackgroundColor = "#EAF3F7"
+textColor = "#2D4159"
+font = "sans serif"
+baseRadius = "medium"
+showWidgetBorder = true
+chartCategoricalColors = ["#0773A5", "#2D4159", "#65C5DD", "#7BBE67", "#F2B134", "#D66565"]
+dataframeHeaderBackgroundColor = "#EAF3F7"
+dataframeHeaderTextColor = "#2D4159"
+dataframeBorderColor = "#D6E5EC"
+
+[theme.sidebar]
+backgroundColor = "#F0F6F8"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#2D4159"
+primaryColor = "#0773A5"
+borderColor = "#D6E5EC"
+Agregar identidad visual Softys
